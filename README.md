@@ -24,7 +24,7 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 
 ## 🧑‍💻 About Me
 
-- **IT System Specialist** at MeCare Oy, managing IT infrastructure and leading web development (mecare.fi).
+- **IT System Specialist & Web Developer** at MeCare Oy, managing IT infrastructure and leading web development (mecare.fi).
 - **Volunteer IT Specialist** for FiNAN, automating membership systems and migrating legacy communications.
 - Passionate about **AI/MLOps**, specifically RAG architectures and autonomous agentic AI workflows.
 - Currently mastering the **Finnish language** and expanding my expertise in production-grade AI systems.
@@ -37,7 +37,6 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 - **Scripting:** Bash, PowerShell, Python
 
 ## 🚀 Projects
-
 
 - **[FiNAN](https://finan.eu.com)**: Developed an automated membership registration and payment system for a non-profit, replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://docs.finan.eu.com) and migrated legacy communications to Fastmail.
 - **[MeCare.fi](https://mecare.fi)**: Led the design and deployment of the website for a healthcare provider, integrating Google Workspace for team collab.
