@@ -20,8 +20,8 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 
 ### 🏥 Professional Impact
 
-- **[MeCare.fi](https://mecare.fi)**: Led the design and deployment of the website for a healthcare provider, integrating Google Workspace for team collaboration.
 - **[FiNAN](https://finan.eu.com)**: Developed an automated membership registration and payment system for a non-profit, replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://docs.finan.eu.com) and migrated legacy communications to Fastmail.
+- **[MeCare.fi](https://mecare.fi)**: Led the design and deployment of the website for a healthcare provider, integrating Google Workspace for team collaboration.
 
 ### 🛠️ Tools & Applications
 
@@ -38,5 +38,5 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 
 ## 📫 Get in Touch
 
-- 📧 Email: `hello@poncardas.com`
+- 📧 Email: `m@poncardas.com`
 - 🌐 Website: [www.poncardas.com](https://www.poncardas.com)
