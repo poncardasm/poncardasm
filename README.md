@@ -61,6 +61,6 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 
 ## 📫 Get in Touch
 
-- 📧 Email: `m@poncardas.com`
-- 🌐 Website: [www.poncardas.com](https://www.poncardas.com)
-- 💼 LinkedIn: [linkedin.com/in/poncardas](https://www.linkedin.com/in/poncardas/)
+- Email: m@poncardas.com
+- Website: [www.poncardas.com](https://www.poncardas.com)
+- LinkedIn: [linkedin.com/in/poncardas](https://www.linkedin.com/in/poncardas/)
