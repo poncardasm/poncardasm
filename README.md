@@ -12,12 +12,13 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 ![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=ffffff)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=ffffff)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=ffffff)
+![Moonshot AI Kimi K2.5](https://img.shields.io/badge/Kimi_K2.5-0EA5E9?style=flat-square&logoColor=ffffff)
 ![CLI](https://img.shields.io/badge/CLI-2E3440?style=flat-square&logo=gnubash&logoColor=ffffff)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Web](https://img.shields.io/badge/Web-2563EB?style=flat-square&logo=icloud&logoColor=ffffff)
 
-## 🔍 Tech Focus
+## 🔍 Tech
 
 - **Daily:** OpenAI Codex, Gemini CLI, Ghostty, Google Antigravity, Obsidian md
 - **Exploring:** Kimi K2.5, GLM 5, MiniMax 2.5
