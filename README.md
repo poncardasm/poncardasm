@@ -45,7 +45,8 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 - **[Time Tracker App](https://github.com/poncardasm/time-tracker-app)**: Simple task tracker tool with CSV export. I've built this to solved my own problem.
 - **[Clean URL App](https://github.com/poncardasm/clean-url-app)**: Remove tracking parameters and fluff from URLs.
 - **[Backup Script](https://github.com/poncardasm/backup-script)**: Incremental backup management for macOS and Windows.
-- **[Clock App](https://github.com/poncardasm/clock-app)**: A minimalist web app for real-time tracking of multiple time zones (built with Astro).
+- **[Discount App](https://github.com/poncardasm/discount-app)**: Fast and simple discount calculator. I built it because I was tired of ad-filled discount apps, and I use it while grocery shopping.
+- **[Clock App](https://github.com/poncardasm/clock-app)**: Family and friends keep asking what time it is in Finland, so now I just send them this link.
 
 ## 📚 Learning & Notes
 
