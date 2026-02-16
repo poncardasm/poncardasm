@@ -1,6 +1,26 @@
-Hi, I'm Mac
+# Hi, I'm Mac 👋
+[www.poncardas.com](https://poncardas.com)
 
 I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland**. I specialize in modernizing technical operations, building high-performance websites, and designing agentic AI solutions.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=ffffff)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=ffffff)
+![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=ffffff)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=ffffff)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=ffffff)
+![CLI](https://img.shields.io/badge/CLI-2E3440?style=flat-square&logo=gnubash&logoColor=ffffff)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Web](https://img.shields.io/badge/Web-2563EB?style=flat-square&logo=icloud&logoColor=ffffff)
+
+## 🔍 Tech Focus
+
+- **Daily:** OpenAI Codex, Gemini CLI, Ghostty, Google Antigravity, Obsidian md
+- **Exploring:** Kimi K2.5, GLM 5, MiniMax 2.5
 
 ## 🧑‍💻 About Me
 
@@ -12,23 +32,19 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 ## 🛠️ Technical Skills
 
 - **Infrastructure & Admin:** Google Workspace & Microsoft 365 Administration, IT Support (macOS/Windows/Linux), Hardware Maintenance, Network Infrastructure.
-- **Web Development:** Astro, Svelte, React, TypeScript, JavaScript, HTML/CSS.
+- **Web Development:** Astro, Svelte, TypeScript, JavaScript, HTML/CSS.
 - **AI & Automation:** LLMs, RAG, AI Agents
-- **Scripting:** PowerShell, Python.
+- **Scripting:** Bash, PowerShell, Python
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🏥 Professional Impact
 
 - **[FiNAN](https://finan.eu.com)**: Developed an automated membership registration and payment system for a non-profit, replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://docs.finan.eu.com) and migrated legacy communications to Fastmail.
-- **[MeCare.fi](https://mecare.fi)**: Led the design and deployment of the website for a healthcare provider, integrating Google Workspace for team collaboration.
-
-### 🛠️ Tools & Applications
-
-- **[Tech Support Tools](https://github.com/poncardasm/tech-support-tools)**: A collection of practical PowerShell tools for IT support specialists.
-- **[Time Tracker App](https://github.com/poncardasm/time-tracker-app)**: A simple time management tool built with Svelte.
-- **[Clean URL App](https://github.com/poncardasm/clean-url-app)**: A TypeScript application to remove tracking parameters and fluff from URLs.
-- **[Backup Script](https://github.com/poncardasm/backup-script)**: Incremental backup management using rsync and PowerShell.
+- **[MeCare.fi](https://mecare.fi)**: Led the design and deployment of the website for a healthcare provider, integrating Google Workspace for team collab.
+- **[Tech Support Tools](https://github.com/poncardasm/tech-support-tools)**: Practical PowerShell tools for IT support specialists.
+- **[Time Tracker App](https://github.com/poncardasm/time-tracker-app)**: Simple task tracker tool with CSV export. I've built this to solved my own problem.
+- **[Clean URL App](https://github.com/poncardasm/clean-url-app)**: Remove tracking parameters and fluff from URLs.
+- **[Backup Script](https://github.com/poncardasm/backup-script)**: Incremental backup management for macOS and Windows.
 - **[Clock App](https://github.com/poncardasm/clock-app)**: A minimalist web app for real-time tracking of multiple time zones (built with Astro).
 
 ## 📚 Learning & Notes
@@ -40,3 +56,4 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 
 - 📧 Email: `m@poncardas.com`
 - 🌐 Website: [www.poncardas.com](https://www.poncardas.com)
+- 💼 LinkedIn: [linkedin.com/in/poncardas](https://www.linkedin.com/in/poncardas/)
