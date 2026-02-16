@@ -56,7 +56,8 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 
 ## 📚 Learning & Notes
 
-- **[Learn Finnish](https://github.com/poncardasm/learn-finnish)**: My personal journey and resources for mastering the Finnish language.
+- **[Blog](https://poncardas.com/blog/)**: Exploring ideas, building things, and sharing what captures my curiosity.
+- **[Learn Finnish](https://github.com/poncardasm/learn-finnish)**: My personal journey and resources for learning Finnish language.
 - **[Python for Everybody (py4e)](https://github.com/poncardasm/py4e)**: Exercises and notes from my Python learning path.
 
 ## 📫 Get in Touch
