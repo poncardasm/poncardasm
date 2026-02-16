@@ -1,4 +1,7 @@
 # Hi, I'm Mac 👋
+
+From Philippines 🇵🇭 now based in Helsinki, Finland 🇫🇮
+
 [www.poncardas.com](https://poncardas.com)
 
 I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland**. I specialize in modernizing technical operations, building high-performance websites, and designing agentic AI solutions.
@@ -28,19 +31,22 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 - **IT System Specialist & Web Developer** at MeCare Oy, managing IT infrastructure and leading web development (mecare.fi).
 - **Volunteer IT Specialist** for FiNAN, automating membership systems and migrating legacy communications.
 - Passionate about **AI/MLOps**, specifically RAG architectures and autonomous agentic AI workflows.
-- Currently mastering the **Finnish language** and expanding my expertise in production-grade AI systems.
+- Currently learning **Finnish 🇫🇮** and expanding my expertise in production-grade AI systems.
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-- **Infrastructure & Admin:** Google Workspace & Microsoft 365 Administration, IT Support (macOS/Windows/Linux), Hardware Maintenance, Network Infrastructure.
-- **Web Development:** Astro, Svelte, TypeScript, JavaScript, HTML/CSS.
-- **AI & Automation:** LLMs, RAG, AI Agents
-- **Scripting:** Bash, PowerShell, Python
+- **End-User Support:** Windows, macOS, Linux, iOS, Android; IT troubleshooting and incident response.
+- **Administration & Infrastructure:** Microsoft 365 and Google Workspace administration, network infrastructure and cabling.
+- **Hardware & Asset Management:** Hardware maintenance and IT asset management.
+- **Web Development & Design:** Astro, Svelte, TypeScript, JavaScript, HTML/CSS.
+- **AI & Automation:** LLMs, RAG, AI Agents.
+- **Scripting:** Bash, PowerShell, Python.
+- **Documentation:** Technical Documentation & SOP Development
 
 ## 🚀 Projects
 
-- **[FiNAN](https://finan.eu.com)**: Developed an automated membership registration and payment system for a non-profit, replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://docs.finan.eu.com) and migrated legacy communications to Fastmail.
-- **[MeCare.fi](https://mecare.fi)**: Led the design and deployment of the website for a healthcare provider, integrating Google Workspace for team collab.
+- **[FiNAN Ry](https://finan.eu.com)**: Developed an automated membership registration and payment system for a non-profit, replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://docs.finan.eu.com) and migrated legacy communications to Fastmail.
+- **[MeCare Oy](https://mecare.fi)**: Led the design and deployment of the website for a healthcare provider, integrating Google Workspace for team collab.
 - **[Tech Support Tools](https://github.com/poncardasm/tech-support-tools)**: Practical PowerShell tools for IT support specialists.
 - **[Time Tracker App](https://github.com/poncardasm/time-tracker-app)**: Simple task tracker tool with CSV export. I've built this to solved my own problem.
 - **[Clean URL App](https://github.com/poncardasm/clean-url-app)**: Remove tracking parameters and fluff from URLs.
