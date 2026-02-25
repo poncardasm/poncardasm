@@ -21,11 +21,6 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Web](https://img.shields.io/badge/Web-2563EB?style=flat-square&logo=icloud&logoColor=ffffff)
 
-## 🔍 Tech
-
-- **Daily:** OpenAI Codex, Gemini CLI, Ghostty, Google Antigravity, Obsidian md
-- **Exploring:** Kimi K2.5, GLM 5, MiniMax 2.5
-
 ## 🧑‍💻 About Me
 
 - **IT System Specialist & Web Developer** at MeCare Oy, managing IT infrastructure and leading web development (mecare.fi).
@@ -55,6 +50,11 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 - **[Discount App](https://github.com/poncardasm/discount-app)**: Fast and simple discount calculator. I built it because I was tired of ad-filled discount apps, and I use it while grocery shopping.
 - **[Clock App](https://github.com/poncardasm/clock-app)**: Family and friends keep asking what time it is in Finland, so now I just send them this link.
 
+## 🔍 Tech
+
+- **Daily:** OpenAI Codex, Gemini CLI, Ghostty, Google Antigravity, Obsidian md
+- **Exploring:** Kimi K2.5, GLM 5, MiniMax 2.5
+
 ## 📚 Learning & Notes
 
 - **[Blog](https://poncardas.com/blog/)**: Exploring ideas, building things, and sharing what captures my curiosity.
@@ -64,5 +64,5 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 ## 📫 Get in Touch
 
 - Email: m@poncardas.com
-- Website: [www.poncardas.com](https://www.poncardas.com)
+- Website: [www.poncardas.com](https://poncardas.com/)
 - LinkedIn: [linkedin.com/in/poncardas](https://www.linkedin.com/in/poncardas/)
