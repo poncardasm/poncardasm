@@ -2,8 +2,6 @@
 
 From Philippines 🇵🇭 now based in Helsinki, Finland 🇫🇮
 
-[www.poncardas.com](https://poncardas.com)
-
 I'm an **IT System Specialist, Web Developer and AI-Augmented Builder** based in **Helsinki, Finland**. I specialize in modernizing technical operations, building high-performance websites, and designing agentic AI solutions.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
