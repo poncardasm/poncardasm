@@ -4,7 +4,7 @@ From Philippines 🇵🇭 now based in Helsinki, Finland 🇫🇮
 
 [www.poncardas.com](https://poncardas.com)
 
-I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland**. I specialize in modernizing technical operations, building high-performance websites, and designing agentic AI solutions.
+I'm an **IT System Specialist, Web Developer and AI-Augmented Builder** based in **Helsinki, Finland**. I specialize in modernizing technical operations, building high-performance websites, and designing agentic AI solutions.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
@@ -40,7 +40,7 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 
 ## 🚀 Projects
 
-- **[FiNAN Ry](https://github.com/finan-eu/finan-website)**: Developed an automated membership registration and payment system for a non-profit, replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://github.com/finan-eu/finan-docs) and migrated legacy communications to Fastmail.
+- **[FiNAN Ry](https://github.com/finan-eu/)**: Developed an automated membership registration and payment system for a [non-profit supporting Filipino nurses in the Nordics](https://finan.eu.com/), replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://docs.finan.eu.com/) and migrated legacy communications to dedicated email provider.
 - **[MeCare Oy](https://mecare.fi)**: Led the design and deployment of the website for a healthcare provider, integrating Google Workspace for team collab.
 - **[Tech Support Tools](https://github.com/poncardasm/tech-support-tools)**: Practical PowerShell tools for IT support specialists.
 - **[Endpoint Evidence Collector](https://github.com/poncardasm/endpoint-evidence-collector)**: Collects and organizes endpoint evidence for troubleshooting and incident response.
