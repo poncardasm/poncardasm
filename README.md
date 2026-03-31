@@ -41,7 +41,7 @@ I'm an **IT System Specialist, Web Developer and AI-Augmented Builder** based in
 - **[FiNAN Ry](https://github.com/finan-eu/)**: Developed an automated membership registration and payment system for a [non-profit supporting Filipino nurses in the Nordics](https://finan.eu.com/), replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://docs.finan.eu.com/) and migrated legacy communications to dedicated email provider.
 - **[MeCare Oy](https://mecare.fi)**: Led the design and deployment of the website for a healthcare provider, integrating Google Workspace for team collab.
 - **[Time Clock](https://github.com/poncardasm/time-clock)**: A mobile-first employee time tracking MVP with GPS location capture and manager approval workflow.
-- **[FNB Shift Scheduler](https://github.com/poncardasm/fnb-shift-scheduler)**: AI-assisted internal shift scheduling tool built as a portfolio project for the Friends & Brgrs Vibe Coding Intern application.
+- **[FnB Shift Scheduler](https://github.com/poncardasm/fnb-shift-scheduler)**: AI-assisted internal shift scheduling tool built as a portfolio project for the Friends & Brgrs Vibe Coding Intern application.
 - **[Virta Tech Support Portfolio](https://github.com/poncardasm/virta-tech-support-portfolio)**: Projects built to demonstrate relevant skills for the Technical Support Specialist role at Virta (Liikennevirta Oy).
 - **[Reaktor RPS Summer Dev 2026](https://github.com/poncardasm/reaktor-rps-summer-dev-2026)**: A full-stack web application that surfaces live and historical Rock-Paper-Scissors match data from the Reaktor League API.
 - **[Tech Support Tools](https://github.com/poncardasm/tech-support-tools)**: Practical PowerShell tools for IT support specialists.
