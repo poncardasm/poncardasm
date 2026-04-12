@@ -60,7 +60,7 @@ From Philippines 🇵🇭, based in Helsinki, Finland 🇫🇮
 ## 🔍 Tech
 
 - **Daily:** OpenAI Codex, Gemini CLI, Ghostty, Google Antigravity, Obsidian md
-- **Exploring:** Kimi K2.5, GLM 5, MiniMax 2.5
+- **Exploring:** AI models Kimi K2.5, GLM 5.1, MiniMax 2.7
 
 ## 📚 Learning & Notes
 
