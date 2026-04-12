@@ -23,11 +23,6 @@ From Philippines 🇵🇭, based in Helsinki, Finland 🇫🇮
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Web](https://img.shields.io/badge/Web-2563EB?style=flat-square&logo=icloud&logoColor=ffffff)
 
-## 💾 Tech
-
-- **Daily:** OpenAI Codex, Gemini CLI, Ghostty, Google Antigravity, Obsidian md
-- **Exploring:** Kimi K2.5, GLM 5, MiniMax 2.5
-
 ## 🧑‍💻 About Me
 
 - **IT System Specialist & Web Developer** at MeCare Oy, managing IT infrastructure and leading web development (mecare.fi).
@@ -47,12 +42,12 @@ From Philippines 🇵🇭, based in Helsinki, Finland 🇫🇮
 
 ## 🚀 Projects
 
-- **[FiNAN Ry](https://finan.eu.com)**: Developed an automated membership registration and payment system for a non-profit supporting Filipino nurses in the Nordics, replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://docs.finan.eu.com) and migrated legacy communications to dedicated email provider.
+- **[FiNAN Ry](https://github.com/finan-eu/)**: Developed an automated membership registration and payment system for a [non-profit supporting Filipino nurses in the Nordics](https://finan.eu.com/), replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://docs.finan.eu.com/) and migrated legacy communications to dedicated email provider.
 - **[MeCare Oy](https://mecare.fi)**: Led the design and deployment of the website for a healthcare provider, integrating Google Workspace for team collab.
 - **[FnB Shift Scheduler](https://github.com/poncardasm/fnb-shift-scheduler)**: AI-assisted internal shift scheduling tool built as a portfolio project for the Friends & Brgrs Vibe Coding Intern application.
 - **[Virta Tech Support Portfolio](https://github.com/poncardasm/L1-support-tools)**: Projects built to demonstrate relevant skills for the Technical Support Specialist role at Virta (Liikennevirta Oy).
 - **[L1 Support Tools](https://github.com/poncardasm/L1-support-tools)**: Utility scripts and documentation for L1 IT support specialists.
-- **[Reaktor RPS Summer Dev 2026](https://github.com/poncardasm/reaktor-rps)**: A full-stack web application that surfaces live and historical Rock-Paper-Scissors match data from the Reaktor League API.
+- **[Reaktor RPS Summer Dev 2026](https://github.com/poncardasm/reaktor-rps-summer-dev-2026)**: A full-stack web application that surfaces live and historical Rock-Paper-Scissors match data from the Reaktor League API.
 - **[Time Clock](https://github.com/poncardasm/time-clock)**: A mobile-first employee time tracking MVP with GPS location capture and manager approval workflow.
 - **[Tech Support Tools](https://github.com/poncardasm/tech-support-tools)**: Practical PowerShell tools for IT support specialists.
 - **[Endpoint Evidence Collector](https://github.com/poncardasm/endpoint-evidence-collector)**: Collects and organizes endpoint evidence for troubleshooting and incident response.
@@ -61,6 +56,11 @@ From Philippines 🇵🇭, based in Helsinki, Finland 🇫🇮
 - **[Backup Script](https://github.com/poncardasm/backup-script)**: Incremental backup management for macOS and Windows.
 - **[Discount App](https://github.com/poncardasm/discount-app)**: Fast and simple discount calculator. I built it because I was tired of ad-filled discount apps, and I use it while grocery shopping.
 - **[Clock App](https://github.com/poncardasm/clock-app)**: Family and friends keep asking what time it is in Finland, so now I just send them this link.
+
+## 🔍 Tech
+
+- **Daily:** OpenAI Codex, Gemini CLI, Ghostty, Google Antigravity, Obsidian md
+- **Exploring:** Kimi K2.5, GLM 5, MiniMax 2.5
 
 ## 📚 Learning & Notes
 
@@ -71,5 +71,5 @@ From Philippines 🇵🇭, based in Helsinki, Finland 🇫🇮
 ## 📫 Get in Touch
 
 - Email: m@poncardas.com
-- Website: [www.poncardas.com](https://www.poncardas.com)
+- Website: [www.poncardas.com](https://poncardas.com/)
 - LinkedIn: [linkedin.com/in/poncardas](https://www.linkedin.com/in/poncardas/)
