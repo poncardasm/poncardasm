@@ -2,7 +2,7 @@
 
 **IT Systems Specialist | Web Developer | AI‑Augmented Builder**
 
-I to solve business problems, build high‑performance websites, and design agentic AI solutions.
+I solve business problems, build high‑performance websites, and design agentic AI solutions.
 
 [www.poncardas.com](https://poncardas.com)
 
