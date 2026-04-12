@@ -1,10 +1,12 @@
 # Hi, I'm Mac 👋
 
-From Philippines 🇵🇭 now based in Helsinki, Finland 🇫🇮
+**IT Systems Specialist | Web Developer | AI‑Augmented Builder**
+
+I help modernize technical operations, build high‑performance websites, and design agentic AI solutions.
 
 [www.poncardas.com](https://poncardas.com)
 
-I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland**. I specialize in modernizing technical operations, building high-performance websites, and designing agentic AI solutions.
+From Philippines 🇵🇭, based in Helsinki, Finland 🇫🇮
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
@@ -21,7 +23,7 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Web](https://img.shields.io/badge/Web-2563EB?style=flat-square&logo=icloud&logoColor=ffffff)
 
-## 🔍 Tech
+## 💾 Tech
 
 - **Daily:** OpenAI Codex, Gemini CLI, Ghostty, Google Antigravity, Obsidian md
 - **Exploring:** Kimi K2.5, GLM 5, MiniMax 2.5
@@ -45,8 +47,13 @@ I'm an **IT System Specialist & AI/Web Developer** based in **Helsinki, Finland*
 
 ## 🚀 Projects
 
-- **[FiNAN Ry](https://finan.eu.com)**: Developed an automated membership registration and payment system for a non-profit, replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://docs.finan.eu.com) and migrated legacy communications to Fastmail.
+- **[FiNAN Ry](https://finan.eu.com)**: Developed an automated membership registration and payment system for a non-profit supporting Filipino nurses in the Nordics, replacing manual bank-transfer verifications. Also created comprehensive [technical documentation](https://docs.finan.eu.com) and migrated legacy communications to dedicated email provider.
 - **[MeCare Oy](https://mecare.fi)**: Led the design and deployment of the website for a healthcare provider, integrating Google Workspace for team collab.
+- **[FnB Shift Scheduler](https://github.com/poncardasm/fnb-shift-scheduler)**: AI-assisted internal shift scheduling tool built as a portfolio project for the Friends & Brgrs Vibe Coding Intern application.
+- **[Virta Tech Support Portfolio](https://github.com/poncardasm/L1-support-tools)**: Projects built to demonstrate relevant skills for the Technical Support Specialist role at Virta (Liikennevirta Oy).
+- **[L1 Support Tools](https://github.com/poncardasm/L1-support-tools)**: Utility scripts and documentation for L1 IT support specialists.
+- **[Reaktor RPS Summer Dev 2026](https://github.com/poncardasm/reaktor-rps)**: A full-stack web application that surfaces live and historical Rock-Paper-Scissors match data from the Reaktor League API.
+- **[Time Clock](https://github.com/poncardasm/time-clock)**: A mobile-first employee time tracking MVP with GPS location capture and manager approval workflow.
 - **[Tech Support Tools](https://github.com/poncardasm/tech-support-tools)**: Practical PowerShell tools for IT support specialists.
 - **[Endpoint Evidence Collector](https://github.com/poncardasm/endpoint-evidence-collector)**: Collects and organizes endpoint evidence for troubleshooting and incident response.
 - **[Time Tracker App](https://github.com/poncardasm/time-tracker-app)**: Simple task tracker tool with CSV export. I've built this to solved my own problem.
