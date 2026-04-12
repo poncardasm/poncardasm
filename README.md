@@ -35,7 +35,7 @@ From Philippines 🇵🇭, based in Helsinki, Finland 🇫🇮
 - **End-User Support:** Windows, macOS, Linux, iOS, Android; IT troubleshooting and incident response.
 - **Administration & Infrastructure:** Microsoft 365 and Google Workspace administration, network infrastructure and cabling.
 - **Hardware & Asset Management:** Hardware maintenance and IT asset management.
-- **Web Development & Design:** Astro, Svelte, TypeScript, JavaScript, HTML/CSS.
+- **Web Development & Design:** HTML/CSS, JavaScript, TypeScript, Astro, Figma
 - **AI & Automation:** LLMs, RAG, AI Agents.
 - **Scripting:** Bash, PowerShell, Python.
 - **Documentation:** Technical Documentation & SOP Development
