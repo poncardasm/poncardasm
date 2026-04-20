@@ -6,7 +6,7 @@ I solve business problems, build high‑performance websites, and design agentic
 
 [www.poncardas.com](https://poncardas.com)
 
-From Philippines 🇵🇭, based in Helsinki, Finland 🇫🇮
+From Philippines 🇵🇭 now based in Helsinki, Finland 🇫🇮
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
